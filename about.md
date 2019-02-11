@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I grew up on Long Island and went to UCLA for 2.5 years before transferring to NYU to study Computer Science. I'm a coder, a filmmaker, a photographer, musician, and lover of great design. If you wanna see some of my work, please check out my portfolio here: will-greenberg.com. Enjoy :)
+I grew up on Long Island and went to UCLA for 2.5 years before transferring to NYU to study Computer Science. I'm a coder, a filmmaker, a photographer, musician, and lover of great design. If you wanna see some of my work, please check out my portfolio [here](will-greenberg.com). Enjoy :)
 
 ### More Information
 
