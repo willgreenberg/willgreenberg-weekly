@@ -27,3 +27,4 @@ Replace the first row with your contribution.
 |  8  |  https://en.wikipedia.org/w/index.php?title=Off_the_Grid_(food_organization)&oldid=891367242  |  Wikipedia  |   More grammar fixes for clarity  |
 |  8  |  https://github.com/nyu-ossd-s19/ConnorSBrady-weekly/issues/1  |  blogs  |  reported issue regarding linking to blog from wiki  | 
 |  8  |  https://github.com/nyu-ossd-s19/mayaarguelles-weekly/issues/1  |  blogs  |  reported issue regarding formatting error on contributions page  |
+|  8  |  https://community.home-assistant.io/t/something-for-a-new-contributor/110083/2  |  Home-Assistant Project, comment  |  Posted to community forum asking for advice on how to contribute to Home-Assistant  |
