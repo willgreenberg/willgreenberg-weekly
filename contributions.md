@@ -28,4 +28,6 @@ Replace the first row with your contribution.
 |  8  |  [link](https://github.com/nyu-ossd-s19/ConnorSBrady-weekly/issues/1)  |  blogs  |  reported issue regarding linking to blog from wiki  | 
 |  8  |  [link](https://github.com/nyu-ossd-s19/mayaarguelles-weekly/issues/1)  |  blogs  |  reported issue regarding formatting error on contributions page  |
 |  8  |  [link](https://community.home-assistant.io/t/something-for-a-new-contributor/110083/2)  |  Home-Assistant Project, comment  |  Posted to community forum asking for advice on how to contribute to Home-Assistant  |
-|  8  | [link](https://github.com/home-assistant/developers.home-assistant/issues/208)  |  Home-Assistant Project, comment  |  Questions about documentation contribution, whether an entity is deprecated  | 
+|  8  |  [link](https://github.com/home-assistant/developers.home-assistant/issues/208)  |  Home-Assistant Project, comment  |  Questions about documentation contribution, whether an entity is deprecated  | 
+|  9  |  [link](https://github.com/home-assistant/developers.home-assistant/issues/208)  |  Home-Assistant Project, comment/issue  |  Claimed issues relating to documentation and chatted with a project member  |
+|  10  |  [link](https://github.com/home-assistant/developers.home-assistant/pull/227)  |  Home-Assistant Project, PR  |  Wrote the whole Climate entity documentation page  |
