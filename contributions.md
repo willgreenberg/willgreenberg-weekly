@@ -30,4 +30,6 @@ Replace the first row with your contribution.
 |  8  |  [link](https://community.home-assistant.io/t/something-for-a-new-contributor/110083/2)  |  Home-Assistant Project, comment  |  Posted to community forum asking for advice on how to contribute to Home-Assistant  |
 |  8  |  [link](https://github.com/home-assistant/developers.home-assistant/issues/208)  |  Home-Assistant Project, comment  |  Questions about documentation contribution, whether an entity is deprecated  | 
 |  9  |  [link](https://github.com/home-assistant/developers.home-assistant/issues/208)  |  Home-Assistant Project, comment/issue  |  Claimed issues relating to documentation and chatted with a project member  |
-|  10  |  [link](https://github.com/home-assistant/developers.home-assistant/pull/227)  |  Home-Assistant Project, PR  |  Wrote the whole Climate entity documentation page  |
+|  10  |  [link](https://github.com/home-assistant/developers.home-assistant/pull/227)  |  Home-Assistant Project, PR  |  Wrote the whole Climate entity documentation page (Merged!)  |
+|  10  |  [link](https://github.com/home-assistant/developers.home-assistant/pull/228/commits/6b130ed0c31567eafc7f0181ea3fa86a23bc12cc)  |  Home-Assistant Project, commit on group PR  |  Formatting fixes for my group member's page (light)
+|  10  |  [link](https://github.com/nyu-ossd-s19/developers.home-assistant/commit/50ac9fcdd7d05609a055e2506ee7e2e8ef87938a)  |  Home-Assistant Project, commit on group PR  |  Formatting fixes for my group member's page (fan)
